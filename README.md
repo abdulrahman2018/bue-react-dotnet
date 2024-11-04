@@ -80,4 +80,4 @@ Usage
 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
-![image](https://github.com/user-attachments/assets/b2aed580-42ea-44e1-9618-7c1b7b9b117a)
+![image](https://github.com/user-attachments/assets/76d0b4ee-d6f8-46fb-81d4-76282806be13)
